@@ -58,6 +58,7 @@ group :development, :test do
   gem 'poltergeist'
   gem 'rspec-retry'
   gem 'database_cleaner'
+  gem 'selenium-webdriver'
 end
 
 group :development do
